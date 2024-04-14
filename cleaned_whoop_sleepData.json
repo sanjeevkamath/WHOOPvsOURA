@@ -1,0 +1,272 @@
+[
+  {
+    "Sleep onset": "2/8/2024 0:50",
+    "Wake onset": "2/8/2024 8:39",
+    "Sleep performance %": 55,
+    "Asleep duration (min)": 337,
+    "Light sleep duration (min)": 180,
+    "Deep (SWS) duration (min)": 102,
+    "REM duration (min)": 55,
+    "Sleep efficiency %": 74
+  },
+  {
+    "Sleep onset": "2/9/2024 2:26",
+    "Wake onset": "2/9/2024 9:42",
+    "Sleep performance %": 61,
+    "Asleep duration (min)": 347,
+    "Light sleep duration (min)": 196,
+    "Deep (SWS) duration (min)": 52,
+    "REM duration (min)": 99,
+    "Sleep efficiency %": 80
+  },
+  {
+    "Sleep onset": "2/10/2024 2:58",
+    "Wake onset": "2/10/2024 10:37",
+    "Sleep performance %": 66,
+    "Asleep duration (min)": 400,
+    "Light sleep duration (min)": 134,
+    "Deep (SWS) duration (min)": 97,
+    "REM duration (min)": 169,
+    "Sleep efficiency %": 87
+  },
+  {
+    "Sleep onset": "2/11/2024 2:36",
+    "Wake onset": "2/11/2024 11:06",
+    "Sleep performance %": 67,
+    "Asleep duration (min)": 421,
+    "Light sleep duration (min)": 236,
+    "Deep (SWS) duration (min)": 92,
+    "REM duration (min)": 93,
+    "Sleep efficiency %": 82
+  },
+  {
+    "Sleep onset": "2/12/2024 4:00",
+    "Wake onset": "2/12/2024 10:09",
+    "Sleep performance %": 44,
+    "Asleep duration (min)": 281,
+    "Light sleep duration (min)": 145,
+    "Deep (SWS) duration (min)": 67,
+    "REM duration (min)": 69,
+    "Sleep efficiency %": 78
+  },
+  {
+    "Sleep onset": "2/13/2024 1:27",
+    "Wake onset": "2/13/2024 9:32",
+    "Sleep performance %": 60,
+    "Asleep duration (min)": 376,
+    "Light sleep duration (min)": 151,
+    "Deep (SWS) duration (min)": 104,
+    "REM duration (min)": 121,
+    "Sleep efficiency %": 80
+  },
+  {
+    "Sleep onset": "2/14/2024 1:43",
+    "Wake onset": "2/14/2024 9:24",
+    "Sleep performance %": 71,
+    "Asleep duration (min)": 376,
+    "Light sleep duration (min)": 190,
+    "Deep (SWS) duration (min)": 75,
+    "REM duration (min)": 111,
+    "Sleep efficiency %": 81
+  },
+  {
+    "Sleep onset": "2/15/2024 1:48",
+    "Wake onset": "2/15/2024 9:48",
+    "Sleep performance %": 80,
+    "Asleep duration (min)": 400,
+    "Light sleep duration (min)": 195,
+    "Deep (SWS) duration (min)": 64,
+    "REM duration (min)": 141,
+    "Sleep efficiency %": 83
+  },
+  {
+    "Sleep onset": "2/16/2024 1:09",
+    "Wake onset": "2/16/2024 7:42",
+    "Sleep performance %": 59,
+    "Asleep duration (min)": 333,
+    "Light sleep duration (min)": 163,
+    "Deep (SWS) duration (min)": 92,
+    "REM duration (min)": 78,
+    "Sleep efficiency %": 85
+  },
+  {
+    "Sleep onset": "2/17/2024 1:10",
+    "Wake onset": "2/17/2024 6:43",
+    "Sleep performance %": 40,
+    "Asleep duration (min)": 257,
+    "Light sleep duration (min)": 113,
+    "Deep (SWS) duration (min)": 95,
+    "REM duration (min)": 49,
+    "Sleep efficiency %": 83
+  },
+  {
+    "Sleep onset": "2/19/2024 2:05",
+    "Wake onset": "2/19/2024 8:42",
+    "Sleep performance %": 58,
+    "Asleep duration (min)": 336,
+    "Light sleep duration (min)": 147,
+    "Deep (SWS) duration (min)": 69,
+    "REM duration (min)": 120,
+    "Sleep efficiency %": 85
+  },
+  {
+    "Sleep onset": "2/20/2024 2:33",
+    "Wake onset": "2/20/2024 10:29",
+    "Sleep performance %": 63,
+    "Asleep duration (min)": 414,
+    "Light sleep duration (min)": 296,
+    "Deep (SWS) duration (min)": 53,
+    "REM duration (min)": 65,
+    "Sleep efficiency %": 87
+  },
+  {
+    "Sleep onset": "2/21/2024 1:35",
+    "Wake onset": "2/21/2024 9:53",
+    "Sleep performance %": 66,
+    "Asleep duration (min)": 411,
+    "Light sleep duration (min)": 180,
+    "Deep (SWS) duration (min)": 97,
+    "REM duration (min)": 134,
+    "Sleep efficiency %": 82
+  },
+  {
+    "Sleep onset": "2/22/2024 1:52",
+    "Wake onset": "2/22/2024 9:57",
+    "Sleep performance %": 62,
+    "Asleep duration (min)": 398,
+    "Light sleep duration (min)": 155,
+    "Deep (SWS) duration (min)": 92,
+    "REM duration (min)": 151,
+    "Sleep efficiency %": 84
+  },
+  {
+    "Sleep onset": "2/23/2024 0:24",
+    "Wake onset": "2/23/2024 9:37",
+    "Sleep performance %": 73,
+    "Asleep duration (min)": 455,
+    "Light sleep duration (min)": 165,
+    "Deep (SWS) duration (min)": 105,
+    "REM duration (min)": 185,
+    "Sleep efficiency %": 82
+  },
+  {
+    "Sleep onset": "2/24/2024 2:05",
+    "Wake onset": "2/24/2024 9:48",
+    "Sleep performance %": 50,
+    "Asleep duration (min)": 319,
+    "Light sleep duration (min)": 136,
+    "Deep (SWS) duration (min)": 108,
+    "REM duration (min)": 75,
+    "Sleep efficiency %": 71
+  },
+  {
+    "Sleep onset": "2/25/2024 1:47",
+    "Wake onset": "2/25/2024 11:25",
+    "Sleep performance %": 79,
+    "Asleep duration (min)": 502,
+    "Light sleep duration (min)": 195,
+    "Deep (SWS) duration (min)": 97,
+    "REM duration (min)": 210,
+    "Sleep efficiency %": 87
+  },
+  {
+    "Sleep onset": "2/25/2024 23:37",
+    "Wake onset": "2/26/2024 8:20",
+    "Sleep performance %": 72,
+    "Asleep duration (min)": 416,
+    "Light sleep duration (min)": 255,
+    "Deep (SWS) duration (min)": 79,
+    "REM duration (min)": 82,
+    "Sleep efficiency %": 79
+  },
+  {
+    "Sleep onset": "2/27/2024 1:31",
+    "Wake onset": "2/27/2024 9:38",
+    "Sleep performance %": 68,
+    "Asleep duration (min)": 410,
+    "Light sleep duration (min)": 107,
+    "Deep (SWS) duration (min)": 105,
+    "REM duration (min)": 198,
+    "Sleep efficiency %": 84
+  },
+  {
+    "Sleep onset": "2/28/2024 2:17",
+    "Wake onset": "2/28/2024 9:50",
+    "Sleep performance %": 59,
+    "Asleep duration (min)": 384,
+    "Light sleep duration (min)": 144,
+    "Deep (SWS) duration (min)": 91,
+    "REM duration (min)": 149,
+    "Sleep efficiency %": 85
+  },
+  {
+    "Sleep onset": "2/29/2024 1:18",
+    "Wake onset": "2/29/2024 9:14",
+    "Sleep performance %": 63,
+    "Asleep duration (min)": 400,
+    "Light sleep duration (min)": 150,
+    "Deep (SWS) duration (min)": 97,
+    "REM duration (min)": 153,
+    "Sleep efficiency %": 84
+  },
+  {
+    "Sleep onset": "3/1/2024 0:47",
+    "Wake onset": "3/1/2024 10:35",
+    "Sleep performance %": 68,
+    "Asleep duration (min)": 431,
+    "Light sleep duration (min)": 206,
+    "Deep (SWS) duration (min)": 98,
+    "REM duration (min)": 127,
+    "Sleep efficiency %": 73
+  },
+  {
+    "Sleep onset": "3/2/2024 2:19",
+    "Wake onset": "3/2/2024 8:46",
+    "Sleep performance %": 41,
+    "Asleep duration (min)": 267,
+    "Light sleep duration (min)": 155,
+    "Deep (SWS) duration (min)": 63,
+    "REM duration (min)": 49,
+    "Sleep efficiency %": 70
+  },
+  {
+    "Sleep onset": "3/3/2024 0:52",
+    "Wake onset": "3/3/2024 9:46",
+    "Sleep performance %": 86,
+    "Asleep duration (min)": 472,
+    "Light sleep duration (min)": 186,
+    "Deep (SWS) duration (min)": 112,
+    "REM duration (min)": 174,
+    "Sleep efficiency %": 88
+  },
+  {
+    "Sleep onset": "3/4/2024 0:35",
+    "Wake onset": "3/4/2024 9:51",
+    "Sleep performance %": 85,
+    "Asleep duration (min)": 465,
+    "Light sleep duration (min)": 203,
+    "Deep (SWS) duration (min)": 102,
+    "REM duration (min)": 160,
+    "Sleep efficiency %": 84
+  },
+  {
+    "Sleep onset": "3/5/2024 0:54",
+    "Wake onset": "3/5/2024 9:25",
+    "Sleep performance %": 76,
+    "Asleep duration (min)": 412,
+    "Light sleep duration (min)": 209,
+    "Deep (SWS) duration (min)": 103,
+    "REM duration (min)": 100,
+    "Sleep efficiency %": 80
+  },
+  {
+    "Sleep onset": "3/6/2024 3:23",
+    "Wake onset": "3/6/2024 11:10",
+    "Sleep performance %": 66,
+    "Asleep duration (min)": 384,
+    "Light sleep duration (min)": 161,
+    "Deep (SWS) duration (min)": 93,
+    "REM duration (min)": 130,
+    "Sleep efficiency %": 83
+  }
+]
