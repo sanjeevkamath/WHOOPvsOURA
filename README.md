@@ -9,3 +9,4 @@ The aim of this repository is to clean, extract, and analyze the sleep data coll
 3. Graph cleaned data to conduct comparitive analysis of WHOOP vs OURA sleep data
 
 ## Gallery
+![image](https://github.com/sanjeevkamath/WHOOPvsOURA/assets/128325813/a0ffb96a-ac16-4e30-882d-5235354b0319)
